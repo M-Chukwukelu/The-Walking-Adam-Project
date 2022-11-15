@@ -1,2 +1,2 @@
 # The-Walking-Adam-Project
-Program that correctly maps a childs steps based on input
+Program that correctly maps a childs steps based on predefined input from an Input fie called Adam.in
